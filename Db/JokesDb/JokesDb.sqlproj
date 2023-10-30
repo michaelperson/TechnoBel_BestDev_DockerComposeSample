@@ -63,6 +63,7 @@
     <Build Include="dbo\Jokes.sql" />
     <Build Include="dbo\Categories.sql" />
     <Build Include="dbo\JokesCategories.sql" />
+    <Build Include="dbo\VuSersBlagues.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="JokesDb.refactorlog" />

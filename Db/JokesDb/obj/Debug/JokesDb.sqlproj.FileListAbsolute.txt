@@ -4,3 +4,7 @@ D:\Joker\Db\JokesDb\bin\Debug\JokesDb.pdb
 D:\Joker\Db\JokesDb\obj\Debug\JokesDb.sqlproj.AssemblyReference.cache
 D:\Joker\Db\JokesDb\obj\Debug\JokesDb.dll
 D:\Joker\Db\JokesDb\obj\Debug\JokesDb.pdb
+D:\Joker\Db\JokesDb\obj\Debug\Model.xml
+D:\Joker\Db\JokesDb\obj\Debug\refactor.xml
+D:\Joker\Db\JokesDb\obj\Debug\postdeploy.sql
+D:\Joker\Db\JokesDb\obj\Debug\predeploy.sql

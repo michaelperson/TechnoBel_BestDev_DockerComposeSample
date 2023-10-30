@@ -1,0 +1,10 @@
+D:\Joker\Db\JokesDb\bin\Release\JokesDb.dacpac
+D:\Joker\Db\JokesDb\bin\Release\JokesDb.dll
+D:\Joker\Db\JokesDb\bin\Release\JokesDb.pdb
+D:\Joker\Db\JokesDb\obj\Release\JokesDb.sqlproj.AssemblyReference.cache
+D:\Joker\Db\JokesDb\obj\Release\Model.xml
+D:\Joker\Db\JokesDb\obj\Release\refactor.xml
+D:\Joker\Db\JokesDb\obj\Release\postdeploy.sql
+D:\Joker\Db\JokesDb\obj\Release\predeploy.sql
+D:\Joker\Db\JokesDb\obj\Release\JokesDb.dll
+D:\Joker\Db\JokesDb\obj\Release\JokesDb.pdb

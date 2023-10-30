@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[Jokes]
 (
-	[Id] INT NOT NULL PRIMARY KEY, 
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
     [Title] NVARCHAR(50) NOT NULL, 
     [Content] NVARCHAR(MAX) NOT NULL, 
     [IdUser] INT NOT NULL, 

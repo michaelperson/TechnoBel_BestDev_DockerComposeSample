@@ -7,9 +7,12 @@ services:
     restart: always
     ports:
       - 1533:1433
+    volumes:
+      - /D/Docker/JokesSqlServer/Data:/var/opt/mssql/Data
+      - /D/Docker/JokesSqlServer/Log:/var/opt/mssql/log
   api:
     container_name: JokesApi
-    build: .
+    build: . 
     depends_on:
       - db
     restart: always

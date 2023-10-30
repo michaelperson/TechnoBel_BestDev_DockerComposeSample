@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Jokes]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Jokes] (Default Constraint)
+     Recreate table
+       [dbo].[Jokes] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Jokes_To_Users] (Foreign Key)
+       [dbo].[FK_JokesCategories_ToJokes] (Foreign Key)
+     Create
+       [dbo].[FK_Jokes_To_Users] (Foreign Key)
+       [dbo].[FK_JokesCategories_ToJokes] (Foreign Key)
+     Refresh
+       [dbo].[VuSersBlagues] (View)
