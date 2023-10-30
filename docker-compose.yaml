@@ -1,0 +1,18 @@
+version: "3.8"
+name: joke_project
+services:
+  db:
+    container_name: JokesDB
+    build:  ./Db/.
+    restart: always
+    ports:
+      - 1533:1433
+  api:
+    container_name: JokesApi
+    build: .
+    depends_on:
+      - db
+    restart: always
+    ports:
+      - 4435:443
+      - 8080:80
